@@ -1,4 +1,4 @@
-<div align="center"><h1>❖❖❖❖❖   𝐒𝐄𝐖 𝐐𝐔𝐄𝐄𝐍   ❖❖❖❖❖</h1><a href="https://github.com/ravindu01manoj/Sew-Queen"><img src="https://i.ibb.co/9Ngt7rH/c32a378c86f6.jpg" width="250" height="250"></a><h3>✬✬ Sew Queen Is World Best Whatsapp Bot Ever ✬✬</h3></div>
+<div align="center"><h1>❖❖❖❖❖  KING YEHAN  ❖❖❖❖❖</h1><a href="https://github.com/ravindu01manoj/Sew-Queen"><img src="https://i.ibb.co/9Ngt7rH/c32a378c86f6.jpg" width="250" height="250"></a><h3>✬✬ KING YEHAN BOT FOR POWERFUL BOT FOR EVER ✬✬</h3></div>
 
 
 ***
@@ -21,10 +21,7 @@
 
 ***
 
-
-<table><tr><th>Ms:Sew</th><th>Ravindu Manoj </th></tr><tr><td><a href="https://github.com/ravindu01manoj"><img src="https://i.ibb.co/3z76kRG/03d3250f68e2.jpg" width="180" alt="Sew Queen"></a></td><td><a href="https://github.com/ravindu01manoj"><img src="https://i.ibb.co/GMDtzJK/9c7cd57913d3.jpg" width="180" alt="Ravindu Manoj"></a></td></tr><tr><td>Owner</td><td>Developer & Owner </td></tr></table><table><tr><th>Muthu</th><th>Dilusha</th><th>Umeda</th></tr><tr><td><a href="https://github.com/ravindu01manoj"><img src="https://i.ibb.co/Ph9cxMm/6c995889c9b9.jpg" width="180" alt="Muthu"></a></td><td><a href="http://github.com/dilushamandila"><img src="https://i.ibb.co/qRZ0cqd/7ac4bab5ced2.jpg" width="180" alt="Dilusha"></a></td><td><a href="http://github.com/umedaewandee"><img src="https://i.ibb.co/fFDw0K5/8190782ff481.jpg" width="180" alt="Umeda"></a></td></tr><tr><td>Voice & Idea </td><td> Graphics & Group Management</td><td>Group Management & Idea</td></tr></table>
-
-
+ 
 ***
 <div align="center"><h1>✬✬ Sew Queen Is World Best Whatsapp Bot Ever ✬✬</h1><a href="https://github.com/ravindu01manoj/Sew-Queen"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/1d9ff8a76d20d4d151780c68c59beeb68b318e88/media/ezgif.com-video-to-gif%20(1).gif" width="450"></a></div>
 
