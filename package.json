@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ravindu01manoj/Sew-Queen.git"
+    "url": "git+https://github.com/king2yehan/Sew-Queen.git"
   },
   "keywords": [
     "whatsapp",
@@ -17,14 +17,14 @@
     "sewqueen",
     "bot"
   ],
-  "author": "Ravindu",
+  "author": "kingyehan",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/ravindu01manoj/Sew-Queen/issues"
+    "url": "https://github.com/kingyehan/Sew-Queen/issues"
   },
-  "homepage": "https://github.com/ravindu01manoj/Sew-Queen#readme",
+  "homepage": "https://github.com/kingyehan/Sew-Queen#readme",
   "dependencies": {
-    "@ravindu01manoj/sew-queen-web": "1.0.1",
+    "@king2yehan/sew-queen-web": "1.0.1",
     "network-speed": "2.1.1",
     "cheerio": "*",
     "axios": ">=0.21.2",
