@@ -11,10 +11,31 @@
 ***
 > scan  QR Code ✏
 <div align="left"><a href="https://replit.com/@RavinduManoj/Queen-Sew-QR-Code"><img src="https://i.ibb.co/5WRBdGh/ab1985860df7.jpg" width="150" ></a></div>
+👆ඔය උඩ තීන scan qr code යන බට්ටොන් එක ඔබල qr එක ගන්න.
 
 ---
 > Deploy Your Bot On Heroku ✏
 <div align="left"><a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FSew01RaviduManoj01KingAndQueen%2FQueenSew1&template=https%3A%2F%2Fgithub.com%2FSewRavindu01ManojKing%2FQueenSew"><img src="https://i.ibb.co/WPRfjrZ/c6eb7d6b6606.png" width="150" ></a></div>
+👆ඔය උඩ තීන deploy your bot on heroku බට්ටොන් එක ඔබලා ඔයාගේ බොට් හදාගන්න.
+
+✊මේ බොට්ගෙ නිර්මාතෘගේ whatsapp no. එක http://wa.me/94704836424 මගේ නම king yehan ✊�😁
+
+
+✊මේක හදන්න උදව් කලපු කෙනාගේ whatsapp no. එක http://wa.me/94761276961 මුගේ නම king draqula😂 ඇත්ට්ත්ත නම නදුන්🤪
+
+
+😍මෙම බොට් සෑදීමට උදව් කල හා මගේ පාසල G/NELUWA NATIONAL COLLEGE 
+
+
+🤪✊මාගේ පන්ති බාර ගුරුවරියගේ නම පියුමි ප්‍රියදර්ශනී
+
+
+🧿මෙය සෑදීමට මා හට english ඉගැන්නූ ගුරුවරිය ගයත්‍රි මිස්
+ 
+ 
+ 😁😁😁 this bot owner 😁😁😁 �✊ KING YEHAN PABASARA ✊�
+                                  GREADE 7 - f
+                                  G/ neluwa national college
 
 ***
 <div aline='left'><h2> SEW QUEEN TEAM </h2></div>
