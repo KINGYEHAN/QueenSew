@@ -1,12 +1,12 @@
 {
-    "name": "✬Sew Queen✬",
+    "name": "✬King Yehan✬",
     "description": "World Best Whatsapp Bot",
     "logo": "https://i.ibb.co/cQQ7RkC/main.jpg",
-    "keywords": ["sew", "sewqueen"],
+    "keywords": ["King", "KingYehan"],
     "stack": "container",
     "env": {
-        "_SEW_QUEEN_SESSION": {
-            "description": "Scan the QR code and enter the code obtained. QR කෝඩය ස්කෑන් කර ලබා ගන්නා කේතය ඇතුලත් කරන්න",
+        "_KING_YEHAN_SESSION": {
+            "description": "Scan the QR code and enter the code obtained. QR කෝඩය ස්කෑන් කර ලබා ගන්නා කේතය ඇතුලත් කරන්න",i,am king yehan✊
             "required": true
         },
         "LANGUAGE": {
@@ -17,27 +17,27 @@
         "S_DOWN_SONG": {
             "description": "Enter the audio download message... ශබ්ද බාගත වීමේ පණිවිඩය ඇතුලත් කරන්න",
             "required": true,
-            "value": "_*I'm Searching your song*_ ✨➾🔎"
+            "value": "_*🧿I'm Searching your song🧿
         },
         "S_UP_SONG": {
             "description": "Enter the audio upload message... ශබ්ද උඩුගත වීමේ පණිවිඩය ඇතුලත් කරන්න",
             "required": true,
-            "value": "_*Im Uploading your song*_ ✨➾🎲"
+            "value": "_🧿Im Uploading your song🧿
         },
         "S_DOWN_VID": {
             "description": "Enter the video download message... වීඩියෝ බාගත වීමේ පණිවිඩය ඇතුලත් කරන්න",
             "required": true,
-            "value": "_*I'm Bringing your video*_ ✨➾🔎"
+            "value": "_*🧿I'm Bringing your video🧿
         },
         "S_UP_VID": {
             "description": "Enter the video upload message... වීඩියෝ උඩුගත වීමේ පණිවිඩය ඇතුලත් කරන්න",
             "required": true,
-            "value": "_*Im Uploading your video*_ ✨➾🎲"
+            "value": "_*🧿Im Uploading your video🧿"
         },
         "MENU_HEADER": {
             "description": "ITS CHANGE YOUR CMD LIST HEADER",
             "required": true,
-            "value": "┏━━━━━━━━━━━━━━━━━━━━━━━━━━━\n┃   *SEW QUEEN WHATSAPP BOT*\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n THIS IS SEW QUEEN CMD MENU"
+            "value": "┏━━━━━━━━━━━━━━━━━━━━━━━━━━━\n┃   *KING YEHAN WHATSAPP BOT*\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n THIS IS KING YEHAN CMD MENU"
         },
         "GROUP_MANAGE": {
             "description": "If you want the admin in the group to be able to use the admin command too, enter true. සමූහය තුල සිටින ඇඩ්මින් හටද ඇඩ්මින් විදාන භාවිතා කිරීමට හැකි සේ සැකසීම අවශ්‍යයි නම් true ලෙස ඇතුලත් කරන්න",
@@ -93,19 +93,19 @@
             "value": "2290891d3a7b4fdfc2abffceb5a3bc92"
          },
           "ZZ_PASSWORD": {
-            "description": "බොට්ව සෑදීම සදහා පාස්වර්ඩ් එකක් අවශ්‍ය අතර වීඩියෝව නරඹා එය ලබා ගන්න.password required.. watch the video ==> https://youtu.be/AKU7YVXxMbM",
+            "description": "ඔතන raviya ඔහොම ගහන්න නැත්තම් බොට් වැඩ නෑ
             "required": true
          },
         "OWNER_SHIP": {
             "description": "බොට් අයිතිකරුගේ නාමය ඇතුලත් කරන්න ==> Input The Owner Name",
             "required": false,
-            "value": "RAVINDU MANOJ"
+            "value": "KING YEHAN"
         },
         
         "YOUR_BOT_NAME": {
             "description": "බොට්ගේ නාමය ඇතුලත් කරන්න ==> Input The Bot Name",
             "required": false,
-            "value": "✬ MS SEW ✬"
+            "value": "✬ KING YEHAN ✬"
         },
         "NO_LOG": {
             "description": "Set true if you don't want to see error log.",
@@ -147,7 +147,7 @@
             "value": "default"
         },
         "WORK_TYPE": {
-            "description": "Sew Bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "KING YEHAN BOT Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
@@ -167,7 +167,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.  include {status} & {phoneinfo} & {sever} & {ratings} to add about chat & phone info & saver info & Your Ratings to your alive message",
             "required": false,
-            "value": "Hello I Am Alive\n{ratings}\n {status} \n {phoneinfo} \n {sever}"
+            "value": "Hello I Am Alive POWERD BY KING YEHAN\n{ratings}\n {status} \n {phoneinfo} \n {sever}"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
