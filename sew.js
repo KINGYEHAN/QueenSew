@@ -1,25 +1,27 @@
-/*Sew Queen Whatsapp Bot    
+/*KING YEHAN Whatsapp Bot    
 
-Telegram: https://t.me/RavinduManoj
-Facebook: https://www.facebook.com/ravindu.manoj.79
-Licensed under the  GPL-3.0 License;
+http://wa.me/94704836424
+✊මම තමයි යෙහාන් පබසර😂
+😂අපි තමයි හොදටම කලේ
 
-Coded By Ravindu Manoj
+
+
+Coded By King Yehan
 */
-let DataPack = require('sew-queen-pro/export/output');
-let SewQueen = require('sew-queen-pro/sources/dc/handler');
-let Details = require('sew-queen-pro/sources/dc/Details');
+let DataPack = require('king-yehan-pro/export/output');
+let king yehan = require('king-yehan-pro/sources/dc/handler');
+let Details = require('king-yehan/sources/dc/Details');
 let GBLACK =require('blocked-s/grp')
-let SOL =require('sew-queen-pro/console')
-let {CheckUpdatesWeb, sendMessageownerMSG, sendMessageADSMSG, sendMessageBotOn, sendMessageGreetingMSG, sendMessageMSGMSG, sendMessageBlackListMSG, sendMessageBIOMSG} = require('sew-queen-pro/sources/dc/sew')
+let SOL =require('king-yehan-pro/console')
+let {CheckUpdatesWeb, sendMessageownerMSG, sendMessageADSMSG, sendMessageBotOn, sendMessageGreetingMSG, sendMessageMSGMSG, sendMessageBlackListMSG, sendMessageBIOMSG} = require('king-yehan-pro/sources/dc/yehan')
 let fs = require('fs'); let os = require('os'); let got = require('got'); let path = require("path"); let chalk = require('chalk');
 let SQQA = require('./SQ-QA')
-let {WAConnection, MessageOptions, MessageType, Mimetype, Presence} = require('@ravindu01manoj/sew-queen-web');  
-let {Message, StringSession, Image, Video} =  require('sew-queen-pro/sources/dc/Wa-Base/');
+let {WAConnection, MessageOptions, MessageType, Mimetype, Presence} = require('@KINGYEHAN/qeen-sew-web');  
+let {Message, StringSession, Image, Video} =  require('king yehan-pro/sources/dc/Wa-Base/');
 let { DataTypes } = require('sequelize'); let { getMessage } = require("./DataBase/greetings");
 let Heroku = require('heroku-client'); let simpleGit = require('simple-git'); let git = simpleGit();
 let heroku = new Heroku({ token: Details.HEROKU.API_KEY}); let baseURI = '/apps/' + Details.HEROKU.APP_NAME;
-let SewQueenDB = Details.DATABASE.define('SewQueen', {
+let KingYehanDB = Details.DATABASE.define('kingyehan', {
         info: {
                 type: DataTypes.STRING,
                 allowNull: false
@@ -57,10 +59,10 @@ Array.prototype.remove = function () {
         }
         return this;
 };
-async function sewQueen() {
+async function kingYehan() {
         const CheckWebUpdate = await CheckUpdatesWeb()
         await Details.DATABASE.sync();
-        var StrSes_Db = await SewQueenDB.findAll({
+        var StrSes_Db = await KingYehanDB.findAll({
                 where: {
                         info: 'StringSession'
         }});
@@ -79,7 +81,7 @@ async function sewQueen() {
         DataKey.on('credentials-updated', async () => {
                 let authInfo = DataKey.base64EncodedAuthInfo();
                 if (StrSes_Db.length < 1) {
-                        await SewQueenDB.create({
+                        await KingYehanDB.create({
                                 info: "StringSession",
                                 value: Session.createStringSession(authInfo)
                 })} else {
@@ -92,9 +94,9 @@ async function sewQueen() {
         });
         DataKey.on('open', async () => {
                 console.log(SOL.LOG); console.log(SOL.PASSC);
-                if (Details.SEWRR == 'raviya') {
+                if (Details.YEHANRR == 'yehan') {
                         console.log(SOL.PASSD)
-                } else if (Details.SEWRR !== 'raviya') {
+                } else if (Details.SEWRR !== 'yehan') {
                         throw new Error(SOL.PASSW); return;
                 }
             console.log(SOL.INSTCL); console.log(SOL.INSTC); console.log(SOL.INSTL);
@@ -136,4 +138,4 @@ async function sewQueen() {
                                 await DataKey.connect();
                         } catch {
                                 return;}}}};
-    sewQueen()
+    KingYehan()
