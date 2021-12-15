@@ -24,13 +24,7 @@
 ✊මේක හදන්න උදව් කලපු කෙනාගේ whatsapp no. එක http://wa.me/94761276961 මුගේ නම king draqula😂 ඇත්ට්ත්ත නම නදුන්🤪
 
 
-😍මෙම බොට් සෑදීමට උදව් කල හා මගේ පාසල G/NELUWA NATIONAL COLLEGE 
-
-
-🤪✊මාගේ පන්ති බාර ගුරුවරියගේ නම පියුමි ප්‍රියදර්ශනී
-
-
-🧿මෙය සෑදීමට මා හට english ඉගැන්නූ ගුරුවරිය ගයත්‍රි මිස්
+😍MY SCHOOL G/neluwa national college
  
  
  😁😁😁 this bot owner 😁😁😁 �✊ KING YEHAN PABASARA ✊�
@@ -44,7 +38,7 @@
 
  
 ***
-<div align="center"><h1>✬✬ Sew Queen Is World Best Whatsapp Bot Ever ✬✬</h1><a href="https://github.com/ravindu01manoj/Sew-Queen"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/1d9ff8a76d20d4d151780c68c59beeb68b318e88/media/ezgif.com-video-to-gif%20(1).gif" width="450"></a></div>
+<div align="center"><h1>✬✬ king yehan Is World Best Whatsapp Bot Ever ✬✬</h1><a href="https://github.com/ravindu01manoj/Sew-Queen"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/1d9ff8a76d20d4d151780c68c59beeb68b318e88/media/ezgif.com-video-to-gif%20(1).gif" width="450"></a></div>
 
 ***
 > [Documentation](https://github.com/ravindu01manoj/Sew-Queen/wiki/Add-Your-Own-Cmd-For-Sew-Queen-Whatsapp-Bot)
