@@ -1,5 +1,5 @@
 /* 
-Sew Queen Whatsapp Bot      
+King Yehan Whatsapp Bot      
 
 Telegram: https://t.me/RavinduManoj
 Facebook: https://www.facebook.com/ravindu.manoj.79
@@ -321,7 +321,7 @@ SewQueen['IntroduceCMD']({
 await sendMessageDownloader(QueenSew, input, 'downsong');
 })); 
 SewQueen['IntroduceCMD']({
-        pattern: 'video ?(.*)',   // Youtube Video Downloader
+        pattern: 'video ?(.*)',   // Youtube Video Downloader BY KING YEHAN
         fromMe: WorkType, 
         dontAdCommandList: true
         }, 
